@@ -10,7 +10,7 @@ This project thrives on community participation — not only on GitHub, but anyw
 We use **[GitHub Discussions](https://github.com/severcoal/nc--r77hna/discussions)** as a place to connect and collaborate.  
 Here you can:
 
-- Ask questions — in **any language** 🌏  
+- Ask questions — in **any language**   
 - Share your ideas and suggestions 💡  
 - Engage with other members 💬  
 - Welcome newcomers 🤝  
