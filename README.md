@@ -11,4 +11,6 @@
 
   To get started, comment below with an introduction of yourself and tell us about what you do with this community.
 
-  https://github.com/severcoal/nc--r77hna/discussions
+
+  * https://github.com/severcoal/nc--r77hna/discussions  
+  * or elsewhere  
