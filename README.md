@@ -16,4 +16,12 @@
   * https://github.com/severcoal/nc--r77hna/discussions  
   * or elsewhere  
 
+## Personal Experience and Self-Competence
+
+I have already **perceived it sensually, sensorily, or in some other way**, and have **grasped it myself**.  
+This means I **possess my own inner reference**, allowing me to draw on it without external guidance.  
+
+I **can do it myself** — from experience, from perception, from lived knowledge.  
+This self-competence is rooted in my **conscious experience** and **embodied memory**.  
+
 🌱🍌͉
